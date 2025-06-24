@@ -1,4 +1,4 @@
-# Ultimate Journal Console
+# Journal Console
 
 A feature-rich command-line journaling application built in Python to help you track your thoughts, moods, and personal growth with style and ease.
 
