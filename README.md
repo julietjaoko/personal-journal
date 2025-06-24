@@ -32,12 +32,12 @@ A feature-rich command-line journaling application built in Python to help you t
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/ultimate-journal-console.git
+git clone https://github.com/julietjaoko/personal-journal.git
 ```
 Navigate to the project directory:
 
 ```bash
-cd ultimate-journal-console
+cd personal-journal
 ```
 Install dependencies:
 
@@ -49,7 +49,7 @@ pip install -r requirements.txt
 **Run the application:**
 
 ```bash
-python journal_app.py
+python main.py
 ```
 **Main Menu Options:**
 - Create new journal entry
@@ -80,10 +80,10 @@ python journal_app.py
 ```text
 .
 ├── journal.json            # Stores journal entries
-├── goals.json              # Stores journaling goals
+├── journal_classes.py      # File containing oop classes for the application
 ├── voice_notes/            # Directory for voice note WAV files
 ├── exports/                # Directory for exported files
-└── journal_app.py          # Main application file
+└── main.py                 # Main application file
 ```
 ## 🛠️ Customization
 **Edit these files to personalize your experience:**
